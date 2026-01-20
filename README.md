@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assests/Best Worst Sellers.jpeg" alt="Best & Worst Sellers" width="500" />
+  <img src="assests/Home Dashboard.jpeg" alt="Home Dashboard" width="500" />
+</p>
+
+
+
 # 🍕 Pizza Sales Data Analysis Project (SQL & Power BI)
 
 ## 📌 Project Overview
