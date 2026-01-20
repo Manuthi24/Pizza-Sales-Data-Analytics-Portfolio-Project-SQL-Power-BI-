@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="assests/Best Worst Sellers.jpeg" alt="Best & Worst Sellers" width="500" />
-  <img src="assests/Home Dashboard.jpeg" alt="Home Dashboard" width="500" />
-</p>
-
-
 
 # 🍕 Pizza Sales Data Analysis Project (SQL & Power BI)
+
+<p align="center">
+  <img src="assests/Best Worst Sellers.jpeg" alt="Best & Worst Sellers" width="400" />
+  <img src="assests/Home Dashboard.jpeg" alt="Home Dashboard" width="400" />
+</p>
 
 ## 📌 Project Overview
 This is an **end-to-end Data Analyst portfolio project** that demonstrates strong skills in **SQL**, **Power BI**, and **data-driven decision making**.
