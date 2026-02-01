@@ -1,5 +1,13 @@
 
 # 🍕 Pizza Sales Data Analysis Project (SQL & Power BI)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-SSMS%2019-red)
+![T--SQL](https://img.shields.io/badge/T--SQL-KPI%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20%26%20DAX-yellow)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-brightgreen)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blueviolet)
+![Excel](https://img.shields.io/badge/Excel-CSV%20Data-darkgreen)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
 
 <p align="center">
   <img src="assests/Best Worst Sellers.jpeg" alt="Best & Worst Sellers" width="400" />
